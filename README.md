@@ -78,8 +78,13 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.swift.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/JSON" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="40" height="40"/> </a> <br />
+<p align="left">
+<a href="https://www.swift.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" width="50" height="50"/> </a> 
+<a href="https://en.wikipedia.org/wiki/JSON" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="50" height="50"/> </a> <br />
+
   
-<p align="left"> <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.postman.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="c" width="140" height="40"/> </a>
-<a href="https://www.sketch.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Sketch-logo-light.svg" alt="c" width="110" height="40"/> </a>
+<p align="left"> <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" alt="Xcode" width="50" height="50"/> </a> 
+<a href="https://www.postman.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="PostMan" width="164" height="50"/> </a>
+<a href="https://www.sketch.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Sketch-logo-light.svg" alt="Sketch" width="110" height="50"/> </a>
+<a href="https://www.rocketsim.app" target="_blank"> <img src="https://www.rocketsim.app/Assets/rocketsim-app-icon.png" alt="RocketSim" width="50" height="50"/> </a>
+<a href="https://pypi.org" target="_blank"> <img src="https://miro.medium.com/max/1400/1*8Zh-mzLnVMDsbvXdKsU4lw.png" alt="PyPI" width="120" height="50"/> </a> 
