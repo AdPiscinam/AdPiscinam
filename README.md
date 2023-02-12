@@ -8,9 +8,9 @@ Here you can find my public repos, especially those made during
 the iOS Developer Openclassrooms Path :)
 I also store the projects I exerciced on or made following various tutorials, books, videos etc.
 
-- 🔭 I’m currently working on my Openclassrooms Projects and iOS Essentials Path
-- 🌱 I’m currently learning Core Data as well as Coordinator Pattern & MVVM
-
+- ⛩️ I’m currently working on my Openclassrooms Projects and iOS Essentials Path
+- 🔭 I’m currently learning Core Data as well as Coordinator Pattern & MVVM
+<!--
 The nomenclature of the repos is as follows (regularly updated):
 
 Random example: <br/>
@@ -51,7 +51,7 @@ Explanation: <br/>
   - [CocoaCasts-T-Coordinators-2-Photos-SB](https://github.com/AdPiscinamBis/CocoaCasts-T-Coordinators-2-Photos-SB) <br/>
   - [CocoaCasts-T-Master-MVVM-1-Cloudy-SB](https://github.com/AdPiscinamBis/CocoaCasts-T-Master-MVVM-1-Cloudy-SB) <br/>
 
-<!--
+
 **AdPiscinam/AdPiscinam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -83,8 +83,7 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/JSON" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="50" height="50"/> </a> <br />
 
   
-<p align="left"> <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" alt="Xcode" width="50" height="50"/> </a> 
+<p align="left"> <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/98/be/93/98be93f8-6cc3-9643-9a20-57019658f914/Xcode-85-220-0-4-2x-sRGB.png/1200x630bb.png" alt="Xcode" width="50" height="50"/> </a> 
 <a href="https://www.postman.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="PostMan" width="164" height="50"/> </a>
 <a href="https://www.sketch.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Sketch-logo-light.svg" alt="Sketch" width="110" height="50"/> </a>
-<a href="https://www.rocketsim.app" target="_blank"> <img src="https://www.rocketsim.app/Assets/rocketsim-app-icon.png" alt="RocketSim" width="50" height="50"/> </a>
 <a href="https://pypi.org" target="_blank"> <img src="https://miro.medium.com/max/1400/1*8Zh-mzLnVMDsbvXdKsU4lw.png" alt="PyPI" width="120" height="50"/> </a> 
