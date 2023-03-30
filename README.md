@@ -8,8 +8,6 @@ Here you can find my public repos, especially those made during
 the iOS Developer Openclassrooms Path :)
 I also store the projects I exerciced on or made following various tutorials, books, videos etc.
 
-- ⛩️ I’m currently working on my Openclassrooms Projects and iOS Essentials Path
-- 🔭 I’m currently learning Core Data as well as Coordinator Pattern & MVVM
 <!--
 The nomenclature of the repos is as follows (regularly updated):
 
